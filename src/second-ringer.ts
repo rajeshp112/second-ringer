@@ -1,7 +1,7 @@
 import { LitElement, html, css } from "lit";
 import { customElement, query, state } from "lit/decorators.js"
 import "./assets/ring.mp3"
-import "@wxcc-desktop/sdk"
+// import "@wxcc-desktop/sdk"
 @customElement("second-ringer")
 export class SecondRinger extends LitElement {
     @state() audioDevices1: any = []
