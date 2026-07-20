@@ -28,7 +28,7 @@
         },
         {
           "comp":"second-ringer",
-          "script":"https://github.com/rajeshp112/second-ringer/dist/index.js"
+          "script":"https://rajeshp112.github.io/second-ringer/dist/index.js"
         },
         {
           "comp": "ai-assistant"
