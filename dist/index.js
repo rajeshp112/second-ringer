@@ -16,7 +16,7 @@
             <br>
             <!-- <button @click="${this.testEm}">Test IT</button> 
             <button @click="${this.stopEm}">Stop IT</button> -->
-            <div class="watermark">Demo</div>
+            <div class="watermark"></div>
             </div>
             </div>
         `}};A.styles=[lt`
