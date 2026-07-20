@@ -113,7 +113,7 @@ export class SecondRinger extends LitElement {
             <br>
             <!-- <button @click="${this.testEm}">Test IT</button> 
             <button @click="${this.stopEm}">Stop IT</button> -->
-            <div class="watermark">Demo Only</div>
+            <div class="watermark">Demo</div>
             </div>
             </div>
         `;
